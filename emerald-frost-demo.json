@@ -23,6 +23,7 @@
   ],
   "studio": {
     "format": 1,
+    "preview": "previews/emerald-frost-demo.png",
     "type": {
       "font": "MesloLGS Nerd Font Mono",
       "font_size": 11,
